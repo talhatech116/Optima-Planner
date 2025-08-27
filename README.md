@@ -52,4 +52,20 @@
 
 ---
 
+## 📌 Case Study: Problem & Solution
+
+### ❌ The Problem
+- People use **multiple apps** for tasks, habits, and calendars → leading to scattered data.  
+- Difficult to **maintain consistency** in habit tracking and task management.  
+- Traditional planners **lack intelligence** to suggest better schedules.  
+- Meetings and events often **overlap or clash**, causing missed deadlines.  
+
+### ✅ The Solution
+- **One Unified Platform:** Combines tasks, habits, calendar, and productivity coaching in one app.  
+- **AI-Powered Assistance:** Helps users build better routines, track progress, and optimize time.  
+- **Smart Calendar Sync:** Automatically integrates with Apple, Google, and Microsoft calendars.  
+- **Focus on Productivity:** Visual insights, automation, and reminders keep users consistent.  
+
+---
+
 **Built with Flutter. Powered by AI. Designed for those who plan to win.**
